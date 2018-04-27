@@ -1,5 +1,6 @@
 import React, {Component} from 'react'
 import { Switch, Route } from 'react-router';
+import { Link } from 'react-router-dom';
 
 export default class extends Component {
   render() {
