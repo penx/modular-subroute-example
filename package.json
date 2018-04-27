@@ -1,5 +1,6 @@
 {
   "name": "@penx/modular-subroute-example",
+  "public": true,
   "version": "0.0.1",
   "description": "modular-subroute-example React component",
   "main": "lib/index.js",
